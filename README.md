@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning about backend, cloud computing, and DevOps
+- 🌱 I’m currently learning IT
